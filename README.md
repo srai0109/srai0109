@@ -1,7 +1,7 @@
 
 <p align="center">
   <em>
-    I am a 3rd Year undergraduate student from <a href="https://hbtu.ac.in/"> <b>Harcourt Butler Technical University</b></a>, India.<br>
+    I am a 3rd Year undergraduate student at <a href="https://hbtu.ac.in/"> <b>Harcourt Butler Technical University</b></a>, India.<br>
     Pursuing Bachelor of Technology in <b>Computer Science & Engineering</b><br>
     <b>I'm Shikha Rai, a coding enthusiast and a frontend web developer, with a keen interest in UI & UX designing.</b>&nbsp;</b>  </em>
 </h1>
