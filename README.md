@@ -1,15 +1,15 @@
 
 <p align="center">
   <em>
-    I am a 3rd Year undergraduate student at <a href="https://hbtu.ac.in/"> <b>Harcourt Butler Technical University</b></a>, India.<br>
-    Pursuing Bachelor of Technology in <b>Computer Science & Engineering</b><br>
-    <b>I'm Shikha Rai, a coding enthusiast and a frontend web developer, with a keen interest in UI & UX designing.</b>&nbsp;</b>  </em>
+    Hola ,I'm Shikha Rai, a 3rd Year undergraduate student at <a href="https://hbtu.ac.in/"> <b>Harcourt Butler Technical University</b></a>, India.<br>
+    Pursuing Bachelor of Technology in <b>Computer Science & Engineering.</b><br>
+    <b>A coding enthusiast and a frontend web developer, with a keen interest in UI & UX designing.</b>&nbsp;</b>  </em>
 </h1>
 </p>
 
-<p align="center">
+<!--<p align="center">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=srai0109&color=red" /> </p>
-</p>
+</p>-->
 
 <p align="center">
   <img alt="GIF" src="https://github.com/mohitjaisal/ImageStore/blob/master/RawImages/dsc_logo.png" width="20vw"/>UI & UX Lead at <a href="https://dsc.hbtu.in/team"><b> Google Developer Student Clubs</b></a>.
