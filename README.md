@@ -13,22 +13,6 @@
 
 
   
-<br>
-
-<h2 align="center"> Programming Skills</h2>
-<p>
-   
-  <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/1c.png"></code>
-  <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/2cpp.png"></code>
-  <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/4js.png"></code>
-  <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/5html.png"></code>
-  <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/6css.png"></code>
-  <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/7.jquery.svg"></code>
-  <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/8.bootstrap.svg"></code>
-  <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/26.git.svg"></code>
-  <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/27.github.svg"></code>
-  <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/28.visualstudio-code.svg"></code>
-  
 
 
 </p>
